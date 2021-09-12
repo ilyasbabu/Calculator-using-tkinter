@@ -1,7 +1,7 @@
 from tkinter import *
 
 window=Tk()
-window.geometry('312x500')
+window.geometry('312x375')
 window.resizable(0,0)
 window.title("Calculator")
 
